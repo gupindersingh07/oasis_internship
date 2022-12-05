@@ -1,0 +1,116 @@
+.menu-bar{
+   height:70px;
+   width:100%;
+   background-color:seagreen;
+   border-radius:15px;
+}
+.container{
+  display:flex;
+  font-size: 20px;
+  font-style: italic;
+  font-family: cursive;
+}
+ul:hover{
+  color:white;
+}
+.list{
+  margin-left:870px;
+}
+.logo{
+  font-family:algerian;
+  font-size:25px;
+  color:white;
+}
+.first-container{
+  height:500px;
+  width:98%;
+  margin-left:15px;
+  border-radius:15px;
+  background-color:powderblue;
+}
+img{
+  height:470px;
+  width:98%;
+  border-radius: 20px;
+  margin-left:15px;
+  margin-top:15px;
+  border-style: double;
+  border-color: black;
+  border-size:20px;
+}
+.textarea{
+  font-family:"Times New Roman",sans-serif;
+  display:flex;
+  padding-left:130px;
+  color:purple;
+}
+#section{
+  font-size: 23px;
+  color:red;
+}
+.green{
+  font-size: 23px;
+  color:green;
+}
+.orange{
+  font-size: 23px;
+  color:orange;
+}
+.blue{
+  font-size: 23px;
+  color:blue;
+}
+.table{
+  font-size:33px;
+  color:teal;
+  font-weight:bold;
+  margin-left:140px;
+}
+.details{
+  display:flex;
+}
+.surkanda{
+  display:flex;
+  height:100%;
+  width:100%;
+}
+.surkanda-maa{
+    height:470px;
+    width:700px;
+    paading-left:20px;
+}
+.story-heading{
+  font-family: algerian;
+  font-color:navy;
+  font-size:30px;
+}
+.story{
+  font-size:30px;
+  font-family:Brush Script MT;
+
+}
+.p1{
+  color:green;
+}
+.p2{
+  color:red;
+}
+.p3{
+  color:blue;
+}
+.temples{
+  font-size:60px;
+}
+.contact-us{
+  height:300px;
+  width:100%;
+  background-color:teal;
+  border-radius:15px;
+}
+.shift{
+margin-left:700px;
+}
+.video-tags{
+  display:flex;
+  column-gap:60px;
+}

@@ -1,0 +1,51 @@
+body{
+  font-family:"poppins", sans-serif;
+  background-color: seagreen;
+}
+
+.container{
+  padding:10px;
+  border:1px solid #BCB9B8;
+  width:40%;
+  margin:auto;
+}
+.container .input{
+  width:80%;
+  height:20px;
+}
+.container .btn{
+  width:50px;
+  height:20px;
+}
+.container ul{
+  list-style: none;
+  padding:0px;
+}
+.container li{
+  color:white;
+  background-color:slategray;
+}
+.container li a{
+  float:right;
+  color:#000;
+  text-decoration:none;
+  font-weight:bold;
+}
+.container #error{
+  color:red;
+  font-size:14px;
+  background-color: cyan;
+}
+#btnclick{
+  height:25px;
+  width:80px;
+}
+.lbl{
+     width: 80px;
+    float:left;
+    margin-left:600px;
+    transform:rotate(-50deg);
+-webkit-transform:rotate(-50deg);
+  font-size:150px;
+  font-family:algerian; 
+}

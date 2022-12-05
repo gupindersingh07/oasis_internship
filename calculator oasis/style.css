@@ -1,0 +1,29 @@
+.outer_container{
+   position: absolute;
+   left: 30%;
+  height:auto;
+  width:auto;
+  bottom: 20%
+}
+.display{
+  height:100px;
+  width:auto;
+  background-color:green;
+}
+.button
+{
+    height:50px;
+    width:90px;
+    background-color:pink;
+}
+.bg-image{
+  height:100%;
+  background-image:url(https://www.moglix.com/blog/wp-content/uploads/2021/01/blog-banner-How-to-know-which-calculator-is-right-for-you-2.jpg);
+  filter:blur(8px);
+}
+#clear{
+  background-color: red;
+}
+#b{
+  background-color: cyan;
+}
